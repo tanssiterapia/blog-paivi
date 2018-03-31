@@ -3,6 +3,9 @@ layout: default
 title: Home
 ---
 
+Aloitin tanssi-liiketerapian opiskelun ensimmäisellä Suomessa tarjotulla tanssi-liiketerapian peruskurssilla v. 1994. Tanssiterapeutin koulutuksen suoritin Yhdysvalloissa, valmistuen vuonna 1999. Näistä vaiheista lähtien tanssi-liiketerapia on ollut keskeinen osa työskentelyäni. Huomioin kokemuksen kehollisia ulottuvuuksia silloinkin, kun terapia toteutuu keskustelun kautta. Jos on mahdollisuus liikkua, terapiatyöskentely saa vielä hienosyisemmät ja kokemuksellisemmat ulottuvuudet.
+<center><img src="/public/paivin-jalat.png"/></center>
+
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
@@ -21,18 +24,18 @@ title: Home
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
+    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Edellinen</a>
   {% else %}
-    <span class="pagination-item older">Older</span>
+    <span class="pagination-item older">Edellinen</span>
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/">Newer</a>
+      <a class="pagination-item newer" href="{{ site.baseurl }}/">Seuraava</a>
     {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
+      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Seuraava</a>
     {% endif %}
   {% else %}
-    <span class="pagination-item newer">Newer</span>
+    <span class="pagination-item newer">Seuraava</span>
   {% endif %}
 </div>
 
