@@ -3,28 +3,18 @@ layout: page
 title: Linkkejä
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+* Built for [Suomen Tanssiterapiayhdistys ry.](http://tanssiterapia.net)
+* Built for [European Association Dance Movement Therapy](http://www.eadmt.com)
+* Built for [American Dance Therapy Association](https://adta.org)
+* Built for [Taideterapiat Suomessa](http://www.taideterapiat.fi)
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+* Built for [Tanssiterapia masennuksen hoidossa -tutkimushanke](https://www.jyu.fi/edupsy/fi/laitokset/psykologia/tutkimus/tutkimussuuntaukset/psykoterapia/psykoterapia/right/projektit/ryhmamuotoinen-tanssi-liiketerapia-kuntoutusmuotona-masennuspotilaille/ryhmamuotoinen-tanssi-liiketerapia-kuntoutusmuotona-masennuspotilaille)
+* Built for [Tanssi-liiketerapia kuntoutusmuotona - KELAn tutkimus](https://helda.helsinki.fi/bitstream/handle/10138/164471/Tyopapereita99.pdf?sequence=1)
 
-There are currently two themes built on Poole:
+* Built for [Arts in Psychotherapy - journal](https://www.sciencedirect.com/journal/the-arts-in-psychotherapy/issues)
+* Built for [Body Movement and Dance in Psychotherapy - journal](https://www.tandfonline.com/loi/tbmd20)
+* Built for [Drexel University - Department of Creative Arts Therapies](http://drexel.edu/cnhp/academics/departments/Creative-Arts-Therapies/)
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* Built for [Mielenterveystalo](https://www.mielenterveystalo.fi)
+* Built for [Taiteesta ja kulttuurista hyvinvointia- toimintaohjelma](https://thl.fi/fi/tutkimus-ja-asiantuntijatyo/hankkeet-ja-ohjelmat/taiteesta-ja-kulttuurista-hyvinvointia)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
