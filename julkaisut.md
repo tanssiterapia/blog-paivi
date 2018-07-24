@@ -3,9 +3,16 @@ layout: page
 title: Julkaisut / Publications
 ---
 
+## Väitöskirja / academic dissertation
+Pylvänäinen, P. (2018). Dance movement therapy in the treatment of depression: change in body image and mood - a clinical practice based study. Jyväskylä Studies in Education, Psychology and Social Research numerona 621, 92 s.
+ISSN 978-951-39-7502-9 (nid.) 
+ISBN 978-951-39-7503-6 (PDF), 
+ISSN 0075-4625.
+[Linkki väitöskirjan pdf-versioon:] (http://urn.fi/URN:ISBN:978-951-39-7503-6) 
+
 ## Vertaisarvioidut tieteelliset artikkelit / peer reviewed papers
 
-Pylvänäinen, P. & Lappalainen, R. (2017). Change in body image among depressed adult outpatients after a dance movement therapy group treatment. The Arts in Psychotherapy, https://doi.org/10.1016/j.aip.2017.10.006. 
+Pylvänäinen, P. & Lappalainen, R. (2018). Change in body image among depressed adult outpatients after a dance movement therapy group treatment. The Arts in Psychotherapy,59, 34–45. https://doi.org/10.1016/j.aip.2017.10.006. 
 
 Pylvänäinen, P., Muotka, J. and Lappalainen, R. (2015). A dance movement therapy group for depressed adult patients in a psychiatric outpatient clinic: effects of the treatment. Frontiers in Psychology. 6:980. doi: 10.3389/fpsyg.2015.00980.
 
@@ -16,9 +23,9 @@ Pylvänäinen, P. (2003). Body image: A tri-partite model for use in dance/movem
 
 ## Vertaisarvioimattomat tieteelliset kirjoitukset / scientific publications
 
-Pylvänäinen, P. (2018) (in press). Embodied treatment of depression: The development of a dance movement therapy model. In A. Zubala & V. Karkou (eds). Arts therapies in the treatment of depression. International research in the arts therapies. London: Routledge. 
+Pylvänäinen, P. (2018). Embodied treatment of depression: The development of a dance movement therapy model. In A. Zubala & V. Karkou (eds). Arts therapies in the treatment of depression. International research in the arts therapies, 120-135. London: Routledge. 
 
-Pylvänäinen, P. (2012). Body memory as a part of the body image. In S. C. Koch, T. Fuchs, M. Summa and C. Müller  (eds.). Body Memory, Metaphor and Movement. Advances in Consciousness Research 84, s. 289-306.  Amsterdam: John Benjamins Publishing Company.
+Pylvänäinen, P. (2012). Body memory as a part of the body image. In S. C. Koch, T. Fuchs, M. Summa and C. Müller  (eds.). Body Memory, Metaphor and Movement. Advances in Consciousness Research 84, s. 289-306. Amsterdam: John Benjamins Publishing Company.
 
 Pylvänäinen, P. (2006). The tri-partite model for body image and its application on experiences in butoh. In S. C. Koch & I. Bräuninger (eds). Advances in dance/movement therapy. Theoretical perspectives and empirical findings. Berlin: Logos Verlag. 
 
