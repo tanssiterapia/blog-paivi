@@ -9,7 +9,7 @@ ISSN 978-951-39-7502-9 (nid.)
 ISBN 978-951-39-7503-6 (PDF) 
 ISSN 0075-4625.
 
-(Linkki väitöskirjan pdf-versioon:)[http://urn.fi/URN:ISBN:978-951-39-7503-6]
+[Linkki väitöskirjan pdf-versioon](http://urn.fi/URN:ISBN:978-951-39-7503-6)
 
 ## Vertaisarvioidut tieteelliset artikkelit / peer reviewed papers
 
