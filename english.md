@@ -9,3 +9,6 @@ Kela (National Health Insurance Institution) does not reimburse DMT treatment.
 Contact information:
 paivi.pylvanainen(at)tanssiterapia.fi
 GSM 358 50 577 3127 (call requests preferably by SMS, thank you)
+
+Appointment times at Komppi, a center for psychological well-being, Kauppakatu 11, 33210 Tampere
+* [Psyykkisen hyvinvoinnin keskus Komppi ajanvaraus](https://komppi.net/ajanvaraus)
