@@ -19,6 +19,6 @@ Laillistettu psykologi, PsM 1996
 
 Tanssi-liiketerapeutti, MA in Creative Arts in Therapy - Dance/Movement Therapy 1999
 
-Psykologian tohtori, Jyväksylän yliopisto, Psykologian laitos 2018
+Psykologian tohtori, Jyväskylän yliopisto, Psykologian laitos 2018
 
 Suomen Tanssiterapiayhdistyksen puheenjohtaja ja yksi perustajajäsenistä
